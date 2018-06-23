@@ -1,6 +1,6 @@
 {
   "name": "@fav/prop.defaults-deep",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Copys own enumerable properties of child and descendant object of source objects to destination object for each destination properties is undefined or null.",
   "main": "index.js",
   "files": [
